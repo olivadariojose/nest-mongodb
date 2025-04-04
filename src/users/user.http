@@ -1,0 +1,11 @@
+
+
+### Create USERS
+POST http://localhost:3000/users
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjkxYTUzMWQ4LWI2Y2EtNGY1Ni1hMTNjLTFkYTI3ODkxN2UyZiIsImlhdCI6MTc0MjQzNTQ0NCwiZXhwIjoxNzQyNDQyNjQ0fQ.7m5FcqpdFrigyyDAyOhtY4KC9JiNi4LK1u9AuHsNALw
+
+{
+    "name": "Dario",
+    "email": "Director@gmail.com"
+}
