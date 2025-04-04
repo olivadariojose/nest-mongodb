@@ -12,7 +12,7 @@
 ## Description
 
 
-- ``npm i @nestjs/config @nestjs/common mongodb @nestjs/mongoose mongoose``
+- ``npm i @nestjs/config @nestjs/common mongodb @nestjs/mongoose mongoose class-validator class-transformer``
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
