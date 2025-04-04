@@ -12,7 +12,7 @@
 ## Description
 
 
-- ``npm i @nestjs/config @nestjs/common @nestjs/mongoose mongoose``
+- ``npm i @nestjs/config @nestjs/common mongodb @nestjs/mongoose mongoose``
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
